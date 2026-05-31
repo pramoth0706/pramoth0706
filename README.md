@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pramoth%20L%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20Raw%20Data%20into%20Decisions%20that%20Drive%20Business%20Impact&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pramoth%20L%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems%20from%20Data%20to%20Deployment&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+ML+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Building+Insights+from+Raw+Data;B.E.+AI+%26+ML+%40+Sri+Sairam+Engg" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+ML+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+FastAPI;Building+Intelligent+Systems+End-to-End;B.E.+AI+%26+ML+%40+Sri+Sairam+Engg" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 ```python
 # pramoth_lm.py
 
-class DataAnalyst:
+class AIEngineer:
     def __init__(self):
         self.name            = "Pramoth L M"
         self.location        = "Bengaluru, Karnataka, India 🇮🇳"
@@ -57,11 +57,11 @@ class DataAnalyst:
 
     def motto(self) -> str:
         return (
-            "Every dataset tells a story. "
-            "My job is to find it, clean it, and tell it clearly. 📊"
+            "I don't just analyse data — I engineer AI systems "
+            "that learn, predict, and deploy at scale. 🤖🚀"
         )
 
-me = DataAnalyst()
+me = AIEngineer()
 print(me.motto())
 ```
 
@@ -155,7 +155,7 @@ print(me.motto())
 
 ## 💼 Work Experience
 
-### 🏢 Future Interns — Data & ML Analyst Intern
+### 🏢 Future Interns — AI & ML Engineer Intern
 **📅 Oct 2025 – Nov 2025 · 📍 Remote**
 
 > `Python` `Pandas` `Power BI` `Git` `GitHub` `Feature Engineering` `Statistical Modelling`
@@ -203,7 +203,7 @@ print(me.motto())
 | 🎓 | **Diploma in Machine Learning with Python** | Alison — Certified ML practitioner covering supervised & unsupervised learning |
 | 🏅 | **Machine Learning with Python** | IBM SkillsBuild — Industry-recognised ML certification by IBM |
 | 📈 | **Business Strategy & Leadership Management** | Saylor Academy — Certified in business strategy frameworks and leadership |
-| 🤖 | **Data & ML Analyst Intern** | Future Interns — End-to-end analytics & ML on real-world datasets, Oct–Nov 2025 |
+| 🤖 | **AI & ML Engineer Intern** | Future Interns — End-to-end AI/ML engineering on real-world datasets, Oct–Nov 2025 |
 | 🐍 | **Python with Data Science Training** | Qspiders — Hands-on Python, EDA, visualization & SQL training programme |
 
 </div>
@@ -251,7 +251,7 @@ print(me.motto())
 ---
 
 <p align="center">
-  <i>"Data is the new oil — but only if you know how to refine it." 🛢️📊</i>
+  <i>"The best AI engineers don't just build models — they build systems that make the world smarter." 🤖⚡</i>
 </p>
 
 <p align="center">
